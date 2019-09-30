@@ -66,7 +66,7 @@ git add dateiname.md
 git reset HEAD .
 ```
 
-##### Bestimmte Datei in Staging Area einpflegen
+##### Bestimmte Datei aus Staging Area entfernen
 
 ```
 git reset HEAD dateiname.md
